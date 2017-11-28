@@ -60,9 +60,7 @@ Config.MecanoStations = {
 
     AuthorizedVehicles = {
       { name = 'flatbed',  label = 'flatbed' },
-      { name = 'gmcyd',   label = 'gmcyd' },
       { name = 'towtruck2',      label = 'towtruck2' },
-      { name = 'mechanic350',   label = 'mechanic350' },
     },
 
     Cloakrooms = {
